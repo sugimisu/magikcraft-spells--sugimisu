@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function 飛ぶ() {
+function tobu() {
 	magik.volare();
 }
