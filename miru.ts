@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function see() {
+function miru() {
     magik.noxvida();
 }
